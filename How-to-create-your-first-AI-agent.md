@@ -1,4 +1,4 @@
-# Build Your First Agentic AI: Understanding Each Step Along the Way
+# How to Create Your First AI Agent? An Easy to Understand Detailed Article
 
 *A hands-on guide for beginners to build a weather agent with LangChain, Claude, and real-time APIs — with every decision explained.*
 
